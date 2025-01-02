@@ -9,5 +9,5 @@
 | Sharan Reddy M| 1DA22CS145|
 | Naresh Choudhary| 1TU24IS064 |
 ### Instructions
-Please add your name and USN to the fork and submit a pull request
+Please add your name and USN to the fork and submit a pull request. 
 
